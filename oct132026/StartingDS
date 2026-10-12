@@ -1,0 +1,19 @@
+Concurrency vs Parallelism
+True Multithreading 
+Multithreading example
+
+Request travelling path in machine
+OS -> ReadBuffer -> LanguageProcess -> WriteBuffer -> OS
+
+HashMap Implementation Theory
+Dynamic Array Theory
+Dyanmic Array Implementation
+
+Next -> 
+Dynamic Array Implementation
+Stack Implementation
+Queue Implementation
+Linked List Implementation
+
+HashMap theroy + Implementation ( if possible )
+HashSet theroy + Implementation ( if possible )
